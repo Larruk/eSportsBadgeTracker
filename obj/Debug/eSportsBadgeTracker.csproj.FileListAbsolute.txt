@@ -1,0 +1,1 @@
+c:\users\andy\documents\visual studio 2013\Projects\eSportsBadgeTracker\bin\Debug\eSportsBadgeTracker.exe.config
