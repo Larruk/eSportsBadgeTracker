@@ -16,17 +16,13 @@ using System.Windows.Shapes;
 namespace eSportsBadgeTracker
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for SearchUser.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class SearchUser : Page
     {
-        public MainWindow()
+        public SearchUser()
         {
             InitializeComponent();
-            LogInPrompt mainpage = new LogInPrompt();
-            mainFrame.Navigate(mainpage);
         }
-
-
     }
 }

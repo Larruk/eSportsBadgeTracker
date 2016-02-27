@@ -13,5 +13,6 @@ namespace eSportsBadgeTracker
     /// </summary>
     public partial class App : Application
     {
+        
     }
 }

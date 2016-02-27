@@ -1,1 +1,26 @@
 c:\users\andy\documents\visual studio 2013\Projects\eSportsBadgeTracker\bin\Debug\eSportsBadgeTracker.exe.config
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\bin\Debug\eSportsBadgeTracker.exe.config
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\bin\Debug\eSportsBadgeTracker.exe
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\bin\Debug\eSportsBadgeTracker.pdb
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\App.g.cs
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\eSportsBadgeTracker_MarkupCompile.cache
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\eSportsBadgeTracker.g.resources
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\eSportsBadgeTracker.Properties.Resources.resources
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\eSportsBadgeTracker.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\eSportsBadgeTracker.exe
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\eSportsBadgeTracker.pdb
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\SearchUser.g.cs
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\eSportsBadgeTracker_MarkupCompile.lref
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\SearchUser.baml
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\AssignBadge.g.cs
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\BadgeScanResults.g.cs
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\LogInPrompt.g.cs
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\ScanBadge.g.cs
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\AssignBadge.baml
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\BadgeScanResults.baml
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\LogInPrompt.baml
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\ScanBadge.baml
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\MainMenu.g.cs
+C:\Users\Gabriel\Source\Repos\eSportsBadgeTracker\obj\Debug\MainMenu.baml
